@@ -1,0 +1,99 @@
+*{
+    font-family: 'Poppins';
+    
+}
+.navbar-expand-lg{
+    background-color: #009FBD;
+    
+}
+.nav-link{
+    color: black;
+}
+.navbar-brand{
+    color: purple;
+}
+
+.nav-link:hover{
+    background-color: aqua;
+    border-radius: 7px;
+}
+.link-1{
+    margin-right: 20px;
+}
+.navbar-toggler{
+    color: green;
+    background-color: green;
+}
+.mcq-logo{
+    width: 300px;
+}
+.main{
+    
+    position: relative;
+    top: 200px;
+    max-width: 600px;
+    margin-left: 15px;
+}
+.img-1{
+    max-width: 500px;
+    border-radius: 10px;
+}
+.im{
+    
+    position: absolute;
+    left: 650px;
+    bottom: 170px;
+}
+.about-p{
+    max-width: 500px;
+    text-align: center;
+}
+.about-h2{
+    text-align: center;
+}
+
+body{
+    background-color: #F9E2AF;
+}
+.button-ok{
+    position: relative;
+    top: 250px;
+    left: 180px;
+}
+.about-btn{
+    color: white;
+    text-decoration: none;
+}
+.about-div{
+    text-align: center;
+    margin-top: 60px;
+}
+.list{
+    list-style-type: none;
+}
+.img-2{
+    width: 700px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.nd-h1{
+    color: purple;
+    text-decoration: underline;
+}
+.memb-1{
+    margin-top: 50px;
+    font-size: small;
+    float: left;
+}
+footer{
+    background-color: grey;
+    margin-top: 400px;
+    height: 60px;
+    text-align: center;
+}
+iframe{
+    position: relative;
+    left: 250px;
+}
+
+
